@@ -1,1 +1,3 @@
-# Recuperaci-n1
+# Recuperación1
+-Nombre: Gilberto Fabián Correa González
+-Grupo: GDS0624
